@@ -25,5 +25,5 @@ else {
 }
 
 for (let i = 0; i < 1; i++) {
-    console.log(`O Herói de nome ${nome} está no nível ${nivel}`);
+    console.log("O Herói de nome {nome} está no nível {nivel}");
 }
