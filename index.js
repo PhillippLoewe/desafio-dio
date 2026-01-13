@@ -1,4 +1,4 @@
-let nome = "Kratos";
+let nomeDoHeroi = "Kratos";
 let xp = 10000;
 let nivel = "";
 
@@ -25,5 +25,5 @@ else {
 }
 
 for (let i = 0; i < 1; i++) {
-    console.log("O Herói de nome {nome} está no nível {nivel}");
+    console.log("O Herói " + nomeDoHeroi + " está no nível " + nivel);
 }
